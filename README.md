@@ -1,5 +1,5 @@
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/StarTrooper08/DockerInstallation) ![Maintaner](https://img.shields.io/badge/maintainer-StarTrooper08-blue) [![GitHub forks](https://img.shields.io/github/forks/StarTrooper08/DockerInstallation.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/StarTrooper08/DockerInstallation/network/)  [![GitHub stars](https://img.shields.io/github/stars/StarTrooper08/DockerInstallation.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/StarTrooper08/DockerInstallation/stargazers/)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/StarTrooper08/DockerInstallation) ![Maintaner](https://img.shields.io/badge/maintainer-StarTrooper08-blue) [![GitHub forks](https://img.shields.io/github/forks/StarTrooper08/DockerInstallation.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/StarTrooper08/DockerInstallation/network/)  
 
 
 
